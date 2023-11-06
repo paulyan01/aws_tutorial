@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2023-11-06T23:55:28.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bf6iYn3up6emx1TkI4xV" version="22.0.8" type="github">
+  <diagram name="Page-1" id="tJkZd3qlPDQ3aarun1I9">
+    <mxGraphModel dx="1793" dy="948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zv98-9vj-CP1mnAaD99e-7" value="AWS Cloud" style="sketch=0;outlineConnect=0;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;dashed=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry width="1100" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-10" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="65" width="1000" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-11" value="Virtual private&#xa;cloud" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.virtual_private_cloud;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-15" value="IAM User in pre production" style="whiteSpace=wrap;html=1;verticalAlign=top;dashed=0;fontSize=16;align=left;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="130" width="200" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-17" value="" style="shape=actor;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="292" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-21" value="IAM User" style="whiteSpace=wrap;html=1;fontSize=20;align=left;fontStyle=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-32" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codecommit;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="586" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-35" value="AWS CodeCommit" style="whiteSpace=wrap;html=1;verticalAlign=top;sketch=0;dashed=0;fontStyle=0;labelBackgroundColor=none;align=left;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1349" y="731" width="151" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-42" value="AWS CodeBuild" style="whiteSpace=wrap;html=1;verticalAlign=top;sketch=0;dashed=0;fontStyle=0;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="710" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-46" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codedeploy;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="600" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-47" value="AWS CodeDeploy" style="whiteSpace=wrap;html=1;verticalAlign=top;sketch=0;dashed=0;fontStyle=0;labelBackgroundColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="730" width="131" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-49" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="211" width="920" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-52" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.iam;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="211" width="40" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-53" value="IAM User in pre production" style="whiteSpace=wrap;html=1;verticalAlign=top;dashed=0;fontSize=16;align=left;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="236.75" width="200" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zv98-9vj-CP1mnAaD99e-58" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.codebuild;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="425" width="78" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
